@@ -1,0 +1,3 @@
+## Welcome to OrderUP Interface!
+
+OrderUP is a mock-up online food delivery service that serves as a platform for in-campus food businesses to help promote their livelihood within UP Diliman. This will ideally cater to the whole UP community as people can access variety of local food stalls in the campus and they can order the food that they want - just like in Grab. I suggested this idea to our group as we were thinking of a product for our project proposal since I thought that our campus still has food businesses yet to be discovered. I made the interface using Figma and TypeScript. To get to know more about the proposal we made for our English 30 class, here is the link: https://drive.google.com/file/d/1Jxu0hmRUSGX_jPxpmhM8dOEf87P7w52l/view?usp=sharing
